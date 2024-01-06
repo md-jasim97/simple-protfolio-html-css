@@ -142,6 +142,7 @@ nav ul li a {
 
 .section-desc{
     font-size: 18px;
+    text-align: center;
 }
 
 
@@ -151,10 +152,58 @@ nav ul li a {
 }
 
 
-.sub-title{
+.about-sub-title{
     font-size: 18px;
     color: #474747;
     width: 400px;
+    text-align: center;
+}
+
+/* About section style code end here */
+
+
+.What-I-do-Section{
+    width: 80%;
+    height: auto;
+    margin: 100px auto 0 auto;
+    padding: 80px;
+}
+
+
+.Do-section-desc{
+    font-size: 18px;
+    text-align: center;
+    padding: 0 50px;
+}
+
+
+.Do-Sec-Card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 60px auto;
+}
+
+
+.Do-Sec-Card-style{
+    font-size: 18px;
+    color: #474747;
+    width: 250px;
+    padding: 25px;
+    box-shadow: 5px 5px 40px rgb(182, 181, 181);
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.Do-Sec-Card-style img{
+    text-align: center;
+    margin: 0 80px;
+   justify-content: space-between;
+} 
+
+
+.Do-Sec-Card-title{
+    margin: 10px 0;
     text-align: center;
 }
 
