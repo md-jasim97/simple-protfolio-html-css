@@ -6,15 +6,24 @@
 }
 
 
-.headers{
-
+.header{
+    background-color: #FFF8F3;
+    background-image: url("/portfolio-resources/images/header_bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 
+
+
+
+
+/* Navbar Style Section Start Here */
 
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 50px 150px;
 }
 
 .nav-title{
@@ -55,6 +64,60 @@ nav ul li a {
     border: 0;
     font-size: 20px;
     box-sizing: border-box;
+}
+
+
+.btn-Outline{
+    background-color: transparent;
+    color: #fd6e0a;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid #fd6e0a;
+    font-size: 20px;
+    box-sizing: border-box;
+    margin-left: 25px;
+}
+
+/* Navbar Style Section End Here */
+
+
+
+
+.banner{
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.banner-content{
+    width: 600px;
+}
+
+
+.banner .profile-pic {
+    width: 500px;
+}
+
+
+.banner-subtitle{
+    font-size: 45px;
+    color: #474747;
+    font-weight: normal;
+}
+
+
+.banner-title{
+    font-size: 70px;
+    color: #181818;
+    font-weight: 800;
+}
+
+.banner-desc{
+    font-size: 18px;
+    color: #6b6b6b;
+    margin: 20px 0;
 }
 
 
