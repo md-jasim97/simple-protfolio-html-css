@@ -162,8 +162,13 @@ nav ul li a {
 /* About section style code end here */
 
 
+
+
+
+
+/* What I do section style code start here */
 .What-I-do-Section{
-    width: 80%;
+    width: 1320px;
     height: auto;
     margin: 100px auto 0 auto;
     padding: 80px;
@@ -206,5 +211,77 @@ nav ul li a {
     margin: 10px 0;
     text-align: center;
 }
+
+
+/* What I do section style code end here */
+
+
+
+
+
+/* My resume section style code start here */
+.my-resume-section{
+    width: 1320px;
+    height: auto;
+    margin: 0 auto;
+    padding: 80px 80px 20px 80px;
+}
+
+.resume-section-title{
+    margin-bottom: 100px;
+}
+
+
+.resume-card{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.resume-card-style{
+    width: 660px;
+    padding: 0 60px 30px 0 ;
+}
+
+
+.resume-title{
+    font-size: 30px;
+    color: #474747;
+    margin: 25px 0;
+    font-weight: 700;
+
+}
+
+
+
+.resume-sub-title{
+    font-size: 25px;
+    color: #474747;
+    font-weight: 600;
+
+}
+
+
+.resume-exprience-time{
+    font-size: 20px;
+    color: #474747;
+    font-weight: normal;
+}
+
+.resume-desc{
+    font-size: 18px;
+    color: #6b6b6b;
+    font-weight: normal;
+    margin: 25px 0px;
+
+}
+
+
+.download-cv{
+    text-align: center;
+}
+
+/* My resume section style code end here */
 
 
