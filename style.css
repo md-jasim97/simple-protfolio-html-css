@@ -285,3 +285,70 @@ nav ul li a {
 /* My resume section style code end here */
 
 
+
+
+
+
+
+/* footer section style code start here */
+
+.footer{
+    background-color: #FFF8F3;
+    display: flex;
+    margin: 100px auto;
+    justify-content: space-between;
+}
+
+.footer-left-side{
+    width: 50%;
+    padding: 80px 80px 100px 200px;
+}
+
+.footer-title{
+    font-size: 30px;
+    color: #474747;
+}
+
+.footer-desc{
+    font-size: 18px;
+    color: #6b6b6b;
+    margin: 25px 0;
+}
+
+.footer-icons{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.fa{
+    color: #3882f0;
+    margin-right: 15px;
+}
+
+.li{
+    margin-right: 15px;
+    color: #fd6e0a;
+    padding: 5px;
+}
+
+.tw{
+    color: #fd6e0a;
+}
+
+
+
+.footer-input{
+    width: 50%;
+    padding: 80px 200px 0px 80px;
+}
+
+.input{
+    font-size: 20px;
+    color: #6b6b6b;
+    border: none;
+    padding: 20px;
+    margin: 25px 0;
+}
+
+
