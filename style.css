@@ -8,7 +8,11 @@
 
 .header{
     background-color: #FFF8F3;
+<<<<<<< HEAD
     background-image: url("./images/header_bg.png");
+=======
+    background-image: url("./portfolio-resources/images/header_bg.png");
+>>>>>>> bd2a0a89f7397e0458b0add2dfc6fec0c52aaac3
     background-repeat: no-repeat;
     background-position: bottom right;
 }
